@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="az" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags - Google üçün vacib -->
+    <title>Yusuf Bağırov — Vikipediya</title>
+    <meta name="description" content="Yusuf Bağırov — azərbaycanlı mütəxəssis, [sahənizi yazın]. Həyatı, fəaliyyəti, təhsili və nailiyyətləri haqqında ətraflı məlumat.">
+    <meta name="keywords" content="Yusuf Bağırov, Yusuf Bagirov, Yusuf Bağırov haqqında, Yusuf Bağırov biografiya, Yusuf Bagirov biography">
+    <meta name="author" content="Yusuf Bağırov">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://yusufbagirov.com/">
+
+    <!-- Open Graph - Sosial şəbəkələr üçün -->
+    <meta property="og:title" content="Yusuf Bağırov — Vikipediya">
+    <meta property="og:description" content="Yusuf Bağırov — azərbaycanlı mütəxəssis. Həyatı, fəaliyyəti və nailiyyətləri.">
+    <meta property="og:type" content="profile">
+    <meta property="og:locale" content="az_AZ">
+    <meta property="og:site_name" content="Vikipediya">
+    <meta property="og:url" content="https://yusufbagirov.com/">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Yusuf Bağırov">
+    <meta name="twitter:description" content="Yusuf Bağırov haqqında ətraflı məlumat.">
+
+    <!-- Schema.org Structured Data - Google üçün çox vacib -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Yusuf Bağırov",
+        "alternateName": "Yusuf Bagirov",
+        "description": "Azərbaycanlı mütəxəssis",
+        "url": "https://yusufbagirov.com/",
+        "sameAs": [],
+        "jobTitle": "[Sahənizi yazın]",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "[Şirkət/ Təşkilat adını yazın]"
+        },
+        "alumniOf": {
+            "@type": "EducationalOrganization",
+            "name": "[Universitet adını yazın]"
+        },
+        "birthPlace": {
+            "@type": "Place",
+            "name": "[Doğulduğunuz şəhəri yazın]"
+        },
+        "nationality": "AZ"
+    }
+    </script>
+
+    <!-- Wikipedia Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Linux+Libertine:wght@400;700&family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* ===== RESET & BASE ===== */
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Noto Sans', 'Linux Libertine', Georgia, Times, serif;
+            font-size: 14px;
+            line-height: 1.6;
+            color: #202122;
+            background: #f8f9fa;
+        }
+
+        a { color: #0645ad; text-decoration: none; }
+        a:visited { color: #0b0080; }
+        a:hover { text-decoration: underline; }
+
+        /* ===== WIKIPEDIA HEADER ===== */
+        .mw-header {
+            background: #fff;
+            border-bottom: 1px solid #a7d7f9;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .mw-header-inner {
+            max-width: 1340px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 50px;
+        }
+
+        .mw-logo {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+        }
+
+        .mw-logo-icon {
+            width: 40px;
+            height: 40px;
+            background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='80' font-size='80' font-family='serif'%3E%F0%9D%90%96%3C/text%3E%3C/svg%3E") center/contain no-repeat;
+        }
+
+        .mw-logo-text {
+            font-family: 'Linux Libertine', serif;
+            font-size: 18px;
+            color: #000;
+            letter-spacing: -0.5px;
+        }
+
+        .mw-logo-text span {
+            color: #000;
+        }
+
+        .mw-nav {
+            display: flex;
+            gap: 4px;
+            align-items: center;
+        }
+
+        .mw-nav a {
+            padding: 6px 12px;
+            font-size: 13px;
+            color: #0645ad;
+            border-radius: 2px;
+        }
+
+        .mw-nav a:hover {
+            background: #eaecf0;
+            text-decoration: none;
+        }
+
+        .mw-search-box {
+            display: flex;
+            align-items: center;
+            border: 1px solid #a2a9b1;
+            border-radius: 2px;
+            overflow: hidden;
+            height: 30px;
+        }
+
+        .mw-search-box input {
+            border: none;
+            padding: 4px 8px;
+            font-size: 13px;
+            width: 200px;
+            outline: none;
+            font-family: inherit;
+        }
+
+        .mw-search-box button {
+            background: #f8f9fa;
+            border: none;
+            border-left: 1px solid #a2a9b1;
+            padding: 0 10px;
+            cursor: pointer;
+            height: 100%;
+        }
+
+        .mw-search-box button svg {
+            width: 16px;
+            height: 16px;
+            fill: #202122;
+        }
+
+        /* ===== SUB HEADER ===== */
+        .mw-sub-header {
+            background: #fff;
+            border-bottom: 1px solid #c8ccd1;
+        }
+
+        .mw-sub-header-inner {
+            max-width: 1340px;
+            margin: 0 auto;
+            padding: 0 24px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            height: 36px;
+            font-size: 12px;
+            color: #54595d;
+        }
+
+        .mw-sub-header-inner .namespace {
+            font-weight: 700;
+            color: #202122;
+        }
+
+        .mw-sub-header-inner .views {
+            margin-left: auto;
+            display: flex;
+            gap: 12px;
+        }
+
+        .mw-sub-header-inner .views span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* ===== MAIN CONTENT ===== */
+        .mw-body {
+            max-width: 1340px;
+            margin: 0 auto;
+            padding: 24px;
+            display: flex;
+            gap: 24px;
+        }
+
+        .mw-content {
+            flex: 1;
+            background: #fff;
+            border: 1px solid #a7d7f9;
+            padding: 24px 32px 40px;
+            min-height: 60vh;
+        }
+
+        .mw-sidebar {
+            width: 220px;
+            flex-shrink: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .mw-sidebar-box {
+            background: #fff;
+            border: 1px solid #c8ccd1;
+            padding: 12px;
+            font-size: 13px;
+        }
+
+        .mw-sidebar-box h3 {
+            font-size: 13px;
+            font-weight: 700;
+            color: #54595d;
+            padding: 0 4px 8px;
+            border-bottom: 1px solid #c8ccd1;
+            margin-bottom: 8px;
+        }
+
+        .mw-sidebar-box ul {
+            list-style: none;
+        }
+
+        .mw-sidebar-box ul li {
+            padding: 2px 4px;
+        }
+
+        .mw-sidebar-box ul li a {
+            color: #0645ad;
+            font-size: 13px;
+        }
+
+        /* ===== ARTICLE TITLE ===== */
+        .mw-first-heading {
+            font-family: 'Linux Libertine', Georgia, Times, serif;
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 1.2;
+            color: #000;
+            border-bottom: 1px solid #a2a9b1;
+            padding-bottom: 4px;
+            margin-bottom: 12px;
+        }
+
+        .mw-article-subtitle {
+            font-size: 14px;
+            color: #54595d;
+            font-style: italic;
+            margin-bottom: 16px;
+        }
+
+        /* ===== EDIT LINKS ===== */
+        .mw-edit-link {
+            float: right;
+            font-size: 12px;
+            color: #0645ad;
+            font-weight: 400;
+        }
+
+        /* ===== INFOBOX ===== */
+        .infobox {
+            float: right;
+            clear: right;
+            width: 280px;
+            margin: 0 0 16px 24px;
+            border: 1px solid #a2a9b1;
+            border-collapse: collapse;
+            background: #f8f9fa;
+            font-size: 13px;
+            line-height: 1.5;
+        }
+
+        .infobox-title {
+            background: #cce0ff;
+            text-align: center;
+            padding: 8px 10px;
+            font-size: 15px;
+            font-weight: 700;
+            font-family: 'Linux Libertine', serif;
+            border-bottom: 1px solid #a2a9b1;
+        }
+
+        .infobox-subtitle {
+            text-align: center;
+            padding: 6px 10px;
+            font-style: italic;
+            font-size: 13px;
+            border-bottom: 1px solid #a2a9b1;
+            background: #f8f9fa;
+        }
+
+        .infobox-image {
+            text-align: center;
+            padding: 8px;
+            border-bottom: 1px solid #a2a9b1;
+            background: #fff;
+        }
+
+        .infobox-image .placeholder-photo {
+            width: 200px;
+            height: 240px;
+            background: #e8e8e8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            border: 1px solid #c8ccd1;
+        }
+
+        .infobox-image .placeholder-photo svg {
+            width: 60px;
+            height: 60px;
+            fill: #a2a9b1;
+        }
+
+        .infobox-caption {
+            text-align: center;
+            font-size: 12px;
+            color: #54595d;
+            padding: 4px 8px 8px;
+        }
+
+        .infobox-row {
+            display: flex;
+            border-bottom: 1px solid #c8ccd1;
+        }
+
+        .infobox-row:last-child {
+            border-bottom: none;
+        }
+
+        .infobox-label {
+            width: 40%;
+            background: #eaf3ff;
+            padding: 6px 8px;
+            font-weight: 700;
+            vertical-align: top;
+            color: #202122;
+        }
+
+        .infobox-data {
+            width: 60%;
+            padding: 6px 8px;
+            vertical-align: top;
+        }
+
+        /* ===== HEADINGS ===== */
+        .mw-heading2 {
+            font-family: 'Linux Libertine', Georgia, Times, serif;
+            font-size: 22px;
+            font-weight: 400;
+            border-bottom: 1px solid #a2a9b1;
+            padding-bottom: 2px;
+            margin: 24px 0 8px;
+            color: #000;
+        }
+
+        .mw-heading3 {
+            font-family: 'Linux Libertine', Georgia, Times, serif;
+            font-size: 17px;
+            font-weight: 700;
+            margin: 16px 0 6px;
+            color: #000;
+        }
+
+        /* ===== TABLE OF CONTENTS ===== */
+        .toc {
+            background: #f8f9fa;
+            border: 1px solid #a2a9b1;
+            padding: 12px 16px;
+            display: inline-block;
+            margin: 16px 0;
+            min-width: 280px;
+            max-width: 400px;
+        }
+
+        .toc-title {
+            text-align: center;
+            font-weight: 700;
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+
+        .toc-toggle {
+            font-size: 12px;
+            color: #0645ad;
+            cursor: pointer;
+            float: right;
+        }
+
+        .toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .toc ul ul {
+            padding-left: 20px;
+        }
+
+        .toc li {
+            padding: 1px 0;
+            font-size: 13px;
+        }
+
+        .toc li .toc-number {
+            margin-right: 6px;
+            color: #202122;
+            font-weight: 400;
+        }
+
+        .toc li a {
+            color: #0645ad;
+        }
+
+        /* ===== PARAGRAPHS ===== */
+        .mw-content p {
+            margin: 8px 0;
+            line-height: 1.65;
+        }
+
+        /* ===== LISTS ===== */
+        .mw-content ul, .mw-content ol {
+            margin: 8px 0 8px 24px;
+        }
+
+        .mw-content li {
+            margin-bottom: 4px;
+        }
+
+        /* ===== CATEGORIES ===== */
+        .mw-categories {
+            border-top: 1px solid #a2a9b1;
+            padding-top: 12px;
+            margin-top: 32px;
+            font-size: 13px;
+            color: #54595d;
+        }
+
+        .mw-categories-label {
+            font-size: 12px;
+            color: #54595d;
+            margin-right: 4px;
+        }
+
+        .mw-categories a {
+            color: #0645ad;
+            font-size: 13px;
+        }
+
+        /* ===== FOOTER ===== */
+        .mw-footer {
+            background: #f8f9fa;
+            border-top: 1px solid #a7d7f9;
+            margin-top: 0;
+        }
+
+        .mw-footer-inner {
+            max-width: 1340px;
+            margin: 0 auto;
+            padding: 16px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+            color: #54595d;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .mw-footer-icons {
+            display: flex;
+            gap: 12px;
+        }
+
+        .mw-footer-icons img {
+            height: 31px;
+            opacity: 0.8;
+        }
+
+        .mw-footer-text a {
+            color: #0645ad;
+            font-size: 12px;
+        }
+
+        /* ===== CLEARFIX ===== */
+        .clearfix::after {
+            content: '';
+            display: table;
+            clear: both;
+        }
+
+        /* ===== RESPONSIVE ===== */
+        @media (max-width: 960px) {
+            .mw-sidebar { display: none; }
+            .mw-body { padding: 16px; }
+            .mw-content { padding: 16px 20px 32px; }
+            .infobox { width: 240px; margin: 0 0 16px 16px; }
+        }
+
+        @media (max-width: 600px) {
+            .mw-header-inner { height: auto; padding: 8px 12px; flex-wrap: wrap; gap: 8px; }
+            .mw-nav { display: none; }
+            .mw-search-box input { width: 140px; }
+            .mw-sub-header { display: none; }
+            .mw-first-heading { font-size: 24px; }
+            .infobox {
+                float: none;
+                width: 100%;
+                margin: 0 0 16px 0;
+            }
+            .toc { min-width: unset; max-width: 100%; width: 100%; }
+            .mw-footer-inner { flex-direction: column; text-align: center; }
+        }
+
+        /* ===== COORDINATES HIDDEN ===== */
+        .coordinates { display: none; }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header class="mw-header">
+        <div class="mw-header-inner">
+            <a href="#" class="mw-logo">
+                <div class="mw-logo-icon"></div>
+                <div class="mw-logo-text"><span>Vikipediya</span></div>
+            </a>
+            <nav class="mw-nav">
+                <a href="#">Müzakirə</a>
+                <a href="#">Oxu</a>
+                <a href="#">Redaktə et</a>
+                <a href="#">Tarixçə</a>
+            </nav>
+            <div class="mw-search-box">
+                <input type="text" placeholder="Vikipediyada axtar">
+                <button aria-label="Axtar">
+                    <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- SUB HEADER -->
+    <div class="mw-sub-header">
+        <div class="mw-sub-header-inner">
+            <span class="namespace">Məqalə</span>
+            <span>Müzakirə</span>
+            <div class="views">
+                <span>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                    Oxunuş sayı
+                </span>
+                <span>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 3a2.828 2.828 0 114 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>
+                    Redaktə et
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN BODY -->
+    <div class="mw-body">
+        <!-- SIDEBAR -->
+        <aside class="mw-sidebar">
+            <div class="mw-sidebar-box">
+                <h3>Alətlər</h3>
+                <ul>
+                    <li><a href="#">Bu səhifəyə keçid</a></li>
+                    <li><a href="#">Əlaqəli dəyişikliklər</a></li>
+                    <li><a href="#">Xüsusi səhifələr</a></li>
+                    <li><a href="#">Daimi keçid</a></li>
+                    <li><a href="#">Səhifə məlumatları</a></li>
+                    <li><a href="#">Wikidata elementi</a></li>
+                    <li><a href="#">Bu məqaləni sitat gətir</a></li>
+                </ul>
+            </div>
+            <div class="mw-sidebar-box">
+                <h3>Çap/ixrac</h3>
+                <ul>
+                    <li><a href="#">Kitab kimi yarat</a></li>
+                    <li><a href="#">PDF kimi yüklə</a></li>
+                    <li><a href="#">Çap versiyası</a></li>
+                </ul>
+            </div>
+            <div class="mw-sidebar-box">
+                <h3>Dillər</h3>
+                <ul>
+                    <li><a href="#">Azərbaycanca</a></li>
+                    <li><a href="#">English</a></li>
+                    <li><a href="#">Русский</a></li>
+                    <li><a href="#">Türkçe</a></li>
+                </ul>
+            </div>
+        </aside>
+
+        <!-- CONTENT -->
+        <main class="mw-content" role="main">
+
+            <h1 class="mw-first-heading">Yusuf Bağırov</h1>
+
+            <div class="mw-article-subtitle">Bu məqalə azərbaycanlı mütəxəssis Yusuf Bağırov haqqındadır.</div>
+
+            <!-- INFOBOX -->
+            <table class="infobox">
+                <tr>
+                    <td class="infobox-title" colspan="2">Yusuf Bağırov</td>
+                </tr>
+                <tr>
+                    <td class="infobox-subtitle" colspan="2">
+                        <!-- Buraya özünüzü təsvir edən qısa sözü yazın -->
+                        Azərbaycanlı [sahənizi yazın]
+                    </td>
+                </tr>
+                <tr>
+                    <td class="infobox-image" colspan="2">
+                        <div class="placeholder-photo">
+                            <svg viewBox="0 0 24 24"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/></svg>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="infobox-caption" colspan="2">
+                        <!-- Şəkil açar sözü -->
+                        Yusuf Bağırov
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">Doğulub</td>
+                    <td class="infobox-data">
+                        <!-- Doğum tarixi və yeri -->
+                        [Tarix], [Şəhər], Azərbaycan
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">Vətəndaşlıq</td>
+                    <td class="infobox-data">
+                        Azərbaycan
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">Milliyyət</td>
+                    <td class="infobox-data">
+                        Azərbaycanlı
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">Təhsili</td>
+                    <td class="infobox-data">
+                        <!-- Universitet adını yazın -->
+                        [Universitet adı]
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">Peşəsi</td>
+                    <td class="infobox-data">
+                        <!-- Peşənizi yazın -->
+                        [Peşənizi yazın]
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">Fəaliyyət dövrü</td>
+                    <td class="infobox-data">
+                        <!-- Fəaliyyət illəri -->
+                        [İl]–hələ
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">İş yeri</td>
+                    <td class="infobox-data">
+                        <!-- İşlədiyiniz yeri yazın -->
+                        [Şirkət/ Təşkilat adı]
+                    </td>
+                </tr>
+                <tr class="infobox-row">
+                    <td class="infobox-label">Mükafatları</td>
+                    <td class="infobox-data">
+                        <!-- Mükafatlarınız varsa yazın -->
+                        [Mükafat adları]
+                    </td>
+                </tr>
+            </table>
+
+            <div class="clearfix">
+
+                <!-- Həyatı bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="heyati">Həyatı</h2>
+
+                <p>
+                    <!-- Buranı özünüzə görə dəyişin -->
+                    <strong>Yusuf Bağırov</strong> [doğum tarixi] tarixində [şəhər] şəhərində anadan olub. Uşaqlıq illəri [şəhər/kənd adı]nda keçib. Erkən yaşlarından [maraq sahəsi] ilə maraqlanıb və bu sahədə özünü inkişaf etdirməyə başlayıb. Ailəsi onun təhsilinə böyük əhəmiyyət verib və həmişə dəstək olub.
+                </p>
+
+                <p>
+                    Orta təhsilini [məktəb adı/nömrəsi] tamamladıqdan sonra [universitet adı]na daxil olub. Təhsil dövründə fəal tələbə həyatı sürüb, müxtəlif layihələrdə iştirak edib. Universiteti [il]-ci ildə [ixtisas] ixtisası üzrə fərqlənmə diplomu ilə bitirib.
+                </p>
+
+                <!-- Təhsili bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="tehsili">Təhsili</h2>
+
+                <p>
+                    Yusuf Bağırov təhsilini [universitet adı]nda alıb. Burada o, [ixtisas] üzrə təhsil alıb və [namizədlik/magistratura və s.] dərəcəsi qazanıb. Təhsil müddətində [mövzu] üzrə elmi-tədqiqat işləri aparmış, müxtəlif konfranslarda iştirak etmişdir.
+                </p>
+
+                <ul>
+                    <!-- Təhsil məlumatlarını yeniləyin -->
+                    <li><strong>[İl–İl]</strong> — [Universitet adı], [ixtisas], [dərəcə]</li>
+                    <li><strong>[İl–İl]</strong> — [Digər təhsil müəssisəsi], [ixtisas], [dərəcə]</li>
+                    <li><strong>[İl]</strong> — [Sertifikat/Kurs adı], [Təşkilat]</li>
+                </ul>
+
+                <!-- Fəaliyyəti bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="fealiyyeti">Fəaliyyəti</h2>
+
+                <p>
+                    Təhsilini tamamladıqdan sonra Yusuf Bağırov [şirkət/təşkilat adı]-da [vəzifə] vəzifəsinə başlayıb. Burada o, [nə işlə məşğul olduğunu yazın] ilə məşğul olub. [İl]-ci ildə [yeni vəzifə/yeni şirkət]-ə keçid edib və hal-hazırda [cari vəzifə] kimi fəaliyyət göstərir.
+                </p>
+
+                <h3 class="mw-heading3" id="pesa_karyera">Peşə karyerası</h3>
+
+                <p>
+                    Yusuf Bağırovun peşə karyerası ərzində [əsas nailiyyətləri yazın]. O, [layihə/ad] layihəsinin həyata keçirilməsində mühüm rol oynayıb. [Digər əhəmiyyətli hadisələri yazın].
+                </p>
+
+                <h3 class="mw-heading3" id="ictimai_faliyyet">İctimai fəaliyyəti</h3>
+
+                <p>
+                    İctimai həyatda da fəal olan Yusuf Bağırov [ictimai təşkilat/qurum adı]-nın üzvüdür/başçısıdır. O, müxtəlif sosial layihələrin həyata keçirilməsində iştirak edir, gənclərin inkişafına dəstək olur. [Əlavə məlumatlarınızı yazın].
+                </p>
+
+                <!-- Nailiyyətləri bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="nailiyyetleri">Nailiyyətləri</h2>
+
+                <p>
+                    Yusuf Bağırov fəaliyyəti dövründə aşağıdakı nailiyyətlərə imza atıb:
+                </p>
+
+                <ul>
+                    <!-- Nailiyyətlərinizi siyahı şəklində yazın -->
+                    <li>[İl] — [Nailiyyət adı və qısa təsviri]</li>
+                    <li>[İl] — [Nailiyyət adı və qısa təsviri]</li>
+                    <li>[İl] — [Nailiyyət adı və qısa təsviri]</li>
+                    <li>[İl] — [Nailiyyət adı və qısa təsviri]</li>
+                    <li>[İl] — [Nailiyyət adı və qısa təsviri]</li>
+                </ul>
+
+                <!-- Şəxsi həyat bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="sexsi_hayat">Şəxsi həyatı</h2>
+
+                <p>
+                    Yusuf Bağırov [ailəli/ subay]dır. [Əlavə şəxsi məlumatlarınızı istəsəniz yazın, istəməsəniz bu bölməni silin]. Boş vaxtlarında [hobbi/maraq] ilə məşğul olur. [Dil biliklərini yazın: Azərbaycan, Türk, İngilis, Rus və s.] dillərini bilir.
+                </p>
+
+                <!-- Mənbələr bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="menbeler">Mənbələr</h2>
+
+                <ol>
+                    <!-- Mənbələrinizi əlavə edin (sayt, məqalə, xəbər linkləri) -->
+                    <li>[Mənbə adı] — <a href="#">https://example.com</a> [tarix]</li>
+                    <li>[Mənbə adı] — <a href="#">https://example.com</a> [tarix]</li>
+                    <li>[Mənbə adı] — <a href="#">https://example.com</a> [tarix]</li>
+                </ol>
+
+                <!-- Xarici keçidlər bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="xarici_kecidler">Xarici keçidlər</h2>
+
+                <ul>
+                    <!-- Sosial media və digər linklərinizi yazın -->
+                    <li><a href="#">[Sosial şəbəkə adı] səhifəsi</a></li>
+                    <li><a href="#">[Şəxsi sayt/link]</a></li>
+                    <li><a href="#">[LinkedIn profili]</a></li>
+                    <li><a href="#">[Digər platforma]</a></li>
+                </ul>
+
+                <!-- Həmçinin bax bölməsi -->
+                <a href="#" class="mw-edit-link">redaktə</a>
+                <h2 class="mw-heading2" id="hemcinin_bax">Həmçinin bax</h2>
+
+                <ul>
+                    <!-- Əlaqəli mövzular -->
+                    <li><a href="#">[Əlaqəli şəxs/mövzu adı]</a></li>
+                    <li><a href="#">[Əlaqəli şəxs/mövzu adı]</a></li>
+                    <li><a href="#">[Əlaqəli şəxs/mövzu adı]</a></li>
+                </ul>
+
+            </div>
+
+            <!-- CATEGORIES -->
+            <div class="mw-categories">
+                <span class="mw-categories-label">Kateqoriyalar:</span>
+                <!-- Kateqoriyalarınızı dəyişin -->
+                <a href="#">Azərbaycanlı mütəxəssislər</a> ·
+                <a href="#">[Kateqoriya adı]</a> ·
+                <a href="#">[Kateqoriya adı]</a> ·
+                <a href="#">[Kateqoriya adı]</a>
+            </div>
+
+        </main>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="mw-footer">
+        <div class="mw-footer-inner">
+            <div class="mw-footer-text">
+                Bu səhifə sonuncu dəfə [tarix] tarixində redaktə edilib. Mətn
+                <a href="#">Creative Commons Attribution-ShareAlike 4.0</a> lisenziyası ilə təmin olunub.
+                Əlavə şərtlər tətbiq oluna bilər. Ətraflı məlumat üçün
+                <a href="#">İstifadə şərtlərinə</a> baxın.
+            </div>
+            <div class="mw-footer-icons">
+                <!-- Wikipedia-style footer icons -->
+                <svg width="88" height="31" viewBox="0 0 88 31" fill="none">
+                    <rect width="88" height="31" rx="3" fill="#f8f9fa" stroke="#c8ccd1"/>
+                    <text x="44" y="19" text-anchor="middle" font-size="10" fill="#54595d" font-family="serif">Vikipediya</text>
+                </svg>
+                <svg width="88" height="31" viewBox="0 0 88 31" fill="none">
+                    <rect width="88" height="31" rx="3" fill="#f8f9fa" stroke="#c8ccd1"/>
+                    <text x="44" y="19" text-anchor="middle" font-size="10" fill="#54595d" font-family="serif">Wikimedia</text>
+                </svg>
+            </div>
+            <div class="mw-footer-text">
+                <a href="#">Gizlilik siyasəti</a> ·
+                <a href="#">Vikipediya haqqında</a> ·
+                <a href="#">Əlaqə</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Google Search Console təsdiqi üçün placeholder (buraya öz verification kodunuzu yazın) -->
+    <!-- <meta name="google-site-verification" content="SIZIN_VERIFICATION_KODUNUZ"> -->
+
+</body>
+</html>
